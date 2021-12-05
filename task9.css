@@ -76,3 +76,37 @@ footer {
   height: 50px;
   background-color: #AAAAAA;
 }
+@media screen and (max-width:425px) {
+
+header {
+  width: 100%;
+}
+h3 {
+  width: 100%;
+}
+main {
+  width: 100%;
+  display: block;
+}
+
+.main-box1 {
+  margin: 20px auto;
+  padding: 10px;
+  width: 90%;
+}
+
+.main-box2 {
+  width: 90%;
+}
+
+.main-box3 {
+  width: 90%;
+
+}
+
+footer {
+  width: 90%;
+
+}
+  
+}
